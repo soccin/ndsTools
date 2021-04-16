@@ -1,7 +1,6 @@
 # ndsTools
 
-An R-package to collect useful tools. A
-    replacement (perhaps) for ndsLibs in my .Rprofile
+An R-package to collect useful tools. A replacement (perhaps) for ndsLibs in my .Rprofile
 
 Function list:
 
