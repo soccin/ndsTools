@@ -1,0 +1,15 @@
+Package: ndsTools
+Title: Really useful tools to have
+Version: 0.0.1
+Authors@R:
+    person(given = "Nicholas",
+           family = "Socci",
+           role = c("aut", "cre"),
+           email = "first.last@example.com")
+Description: An R-package to collect useful tools. A
+    replacement (perhaps) for ndsLibs in my .Rprofile
+License: NONE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1.9001
